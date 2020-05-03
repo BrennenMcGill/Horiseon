@@ -6,6 +6,6 @@ Home page that explains the importance of our social media presents.
 
 [Linke to webite](https://brennenmcgill.github.io/Horiseon/)
 
-![image of top part of my website](./assets/images/Screenshot-1.png)
+![image of top part of my website](https://github.com/BrennenMcGill/Horiseon/blob/master/assets/images/Screenshot-1.PNG)
 
-![image of bottom part of my website](./assets/images/Screenshot-2.png)
+![image of bottom part of my website](https://github.com/BrennenMcGill/Horiseon/blob/master/assets/images/Screenshot-2.PNG)
